@@ -1,9 +1,10 @@
-layout_spectrum: 0.6850728429853916
-typography_spectrum: 0.8601698761340231
+author:
+  url: www.niyasocannizzarophotography.com
+  email: niyaso@gmail.com
+  name: Niyaso Cannizzaro
 color:
-  brandStrength: 0.02575270878151059
-  lightness: 0.3572964072227478
   saturation: 0.8474431245122105
+  brandStrength: 0.02575270878151059
   rhythmicContrast: 0.488859937293455
   brandColors:
     - '#3C493F'
@@ -11,8 +12,19 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+  lightness: 0.3572964072227478
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.6850728429853916
+typography_spectrum: 0.8601698761340231
 name: niyaso
-author:
-  url: www.niyasocannizzarophotography.com
-  email: niyaso@gmail.com
-  name: Niyaso Cannizzaro
