@@ -1,10 +1,12 @@
 ---
 description: welcome to my world
-dateModified: '2016-06-27T20:42:32.997Z'
-datePublished: '2016-06-27T20:42:34.141Z'
-title: Pip
+dateModified: '2016-06-27T21:07:15.668Z'
+datePublished: '2016-06-27T21:08:13.948Z'
+title: ''
 author: []
 sourcePath: _posts/2016-06-09-welcome-to-my-world.md
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/872277a1-ee0f-4146-8e29-1268e2f72b0d.jpg
 starred: true
 inFeed: true
 hasPage: false
@@ -12,11 +14,11 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c41a6aed-a040-4d1e-82eb-316440d30017.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/872277a1-ee0f-4146-8e29-1268e2f72b0d.jpg)
 
 welcome to my world
 
-fragile but solid
+firm but fragile
 
 images are stories
 
