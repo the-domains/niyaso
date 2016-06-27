@@ -1,11 +1,11 @@
 ---
 description: welcome to my world
-dateModified: '2016-06-27T20:37:55.764Z'
-datePublished: '2016-06-27T20:37:56.400Z'
+dateModified: '2016-06-27T20:37:59.780Z'
+datePublished: '2016-06-27T20:38:00.138Z'
 title: Pip
 author: []
 sourcePath: _posts/2016-06-09-welcome-to-my-world.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
