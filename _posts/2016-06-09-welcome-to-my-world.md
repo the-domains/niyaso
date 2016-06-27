@@ -1,7 +1,7 @@
 ---
 description: welcome to my world
-dateModified: '2016-06-27T21:07:15.668Z'
-datePublished: '2016-06-27T21:08:13.948Z'
+dateModified: '2016-06-27T21:19:54.794Z'
+datePublished: '2016-06-27T21:21:24.199Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-09-welcome-to-my-world.md
@@ -18,7 +18,7 @@ _type: MediaObject
 
 welcome to my world
 
-firm but fragile
+rooted but fragile
 
 images are stories
 
