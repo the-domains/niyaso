@@ -3,16 +3,16 @@ author:
   email: niyaso@gmail.com
   name: Niyaso Cannizzaro
 color:
-  saturation: 0.8474431245122105
-  brandStrength: 0.02575270878151059
-  rhythmicContrast: 0.488859937293455
+  saturation: 0.03689556964673102
+  brandStrength: 0.6721895516384393
+  rhythmicContrast: 0.12280064052902162
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  lightness: 0.3572964072227478
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
+  lightness: 0.6088254316709936
 collections:
   - index:
       path: /
@@ -25,6 +25,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.6850728429853916
+layout_spectrum: 0.727878896985203
 typography_spectrum: 0.8601698761340231
 name: niyaso cannizzaro photography
