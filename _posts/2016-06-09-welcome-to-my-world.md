@@ -1,11 +1,11 @@
 ---
 description: welcome to my world
-dateModified: '2016-06-27T20:37:59.780Z'
-datePublished: '2016-06-27T20:38:00.138Z'
+dateModified: '2016-06-27T20:42:26.616Z'
+datePublished: '2016-06-27T20:42:27.282Z'
 title: Pip
 author: []
 sourcePath: _posts/2016-06-09-welcome-to-my-world.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -16,7 +16,7 @@ _type: MediaObject
 
 welcome to my world
 
-a fragile and yet sturdy existence
+fragile but solid
 
 images are stories
 
