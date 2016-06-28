@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[niyaso cannizzaro photography]]></title>
         <description><![CDATA[niyaso cannizzaro photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://niyasocannizzarophotography.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 13:34:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 28 Jun 2016 13:34:27 GMT</lastBuildDate>
+        <atom:link href="http://niyasocannizzarophotography.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d5be8b1059ab8143f794d73d2114b5e5/croprotate.jpg?cropheight=3282&cropwidth=4928&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F80dd714a-6226-4be4-8374-bd42df79acb1.jpg&x=0&y=0">]]></description>
+            <link>http://niyasocannizzarophotography.com/fe167dee-4b7e-47c6-9e1c-ffd840fca8d9/index.html</link>
+            <guid isPermaLink="false">fe167dee-4b7e-47c6-9e1c-ffd840fca8d9</guid>
+            <pubDate>Tue, 28 Jun 2016 13:34:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49e1c23d-c695-4281-9e1c-862b4eac899c.jpg">]]></description>
-            <link>undefined48de7d84-c77a-4eef-a794-28be000bc4d2/index.html</link>
+            <link>http://niyasocannizzarophotography.com/48de7d84-c77a-4eef-a794-28be000bc4d2/index.html</link>
             <guid isPermaLink="false">48de7d84-c77a-4eef-a794-28be000bc4d2</guid>
             <pubDate>Tue, 28 Jun 2016 13:34:23 GMT</pubDate>
         </item>
