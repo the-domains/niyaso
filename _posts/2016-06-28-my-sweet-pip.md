@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-28T23:00:55.997Z'
+datePublished: '2016-06-28T23:01:17.742Z'
 author: []
-dateModified: '2016-06-28T23:00:52.016Z'
+dateModified: '2016-06-28T23:01:17.643Z'
 title: my sweet pip
 description: ''
-starred: false
 sourcePath: _posts/2016-06-28-my-sweet-pip.md
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
