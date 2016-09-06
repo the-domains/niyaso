@@ -1,11 +1,13 @@
 ---
-datePublished: '2016-06-28T22:03:14.437Z'
-author: []
-dateModified: '2016-06-28T22:03:11.777Z'
-title: ''
-description: the barker
-starred: false
+datePublished: '2016-09-02T14:07:10.264Z'
 sourcePath: _posts/2016-06-28-the-barker.md
+author: []
+dateModified: '2016-09-02T14:07:09.842Z'
+title: ''
+description: ''
+publisher: {}
+via: {}
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
@@ -14,4 +16,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![the barker](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6716d4a9-7127-47d0-a34c-c9e40b9e9428.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6716d4a9-7127-47d0-a34c-c9e40b9e9428.jpg)
