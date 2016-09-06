@@ -1,7 +1,4 @@
-author:
-  url: www.niyasocannizzarophotography.com
-  email: niyaso@gmail.com
-  name: Niyaso Cannizzaro
+typography_spectrum: 0.8601698761340231
 color:
   saturation: 0.03689556964673102
   brandStrength: 0.6721895516384393
@@ -13,6 +10,12 @@ color:
     - '#E6D4A7'
     - '#825534'
   lightness: 0.6088254316709936
+layout_spectrum: 0.4178484007716179
+author:
+  url: www.niyasocannizzarophotography.com
+  email: niyaso@gmail.com
+  name: Niyaso Cannizzaro
+name: niyaso cannizzaro photography
 collections:
   - index:
       path: /
@@ -25,6 +28,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.4178484007716179
-typography_spectrum: 0.8601698761340231
-name: niyaso cannizzaro photography
+title: Images are Stories
